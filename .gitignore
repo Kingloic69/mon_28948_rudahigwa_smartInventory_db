@@ -1,0 +1,51 @@
+# Oracle Database Files
+*.dbf
+*.log
+*.ora
+*.trc
+*.aud
+
+# Temporary Files
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+
+# IDE Files
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+logs/
+
+# Screenshots (optional - uncomment if you don't want to track screenshots)
+# screenshots/
+
+# Sensitive Data
+*password*
+*secret*
+*.key
+*.pem
+
+# Compiled Files
+*.class
+*.pyc
+__pycache__/
+
+# Node modules (if any frontend tools are used)
+node_modules/
+
+# Build outputs
+dist/
+build/
+
