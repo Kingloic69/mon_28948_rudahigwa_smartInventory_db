@@ -113,11 +113,11 @@ Smart Inventory Theft-Detection System/
 ---
 
 **Student Information:**  
-- **Student Name:** Rudahigwa
+- **Student Name:** Rudahigwa Mparabanyi Loic
 - **Student ID:** 28948
 - **Group Name:** mon
 - **Database Name:** mon_28948_rudahigwa_smartInventory_db
 
 **GitHub Repository:**  
-*[To be added: Repository URL]*
+*https://github.com/Kingloic69/mon_28948_rudahigwa_smartInventory_db*
 
