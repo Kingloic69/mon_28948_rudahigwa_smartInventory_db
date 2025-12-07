@@ -95,12 +95,12 @@ Smart Inventory Theft-Detection System/
 
 - ✅ Phase I: Problem Statement & Presentation
 - ✅ Phase II: Business Process Modeling
-- ⏳ Phase III: Logical Model Design
-- ⏳ Phase IV: Database Creation
-- ⏳ Phase V: Table Implementation & Data Insertion
-- ⏳ Phase VI: Database Interaction & Transactions
-- ⏳ Phase VII: Advanced Programming & Auditing
-- ⏳ Phase VIII: Documentation, BI & Presentation
+- ✅ Phase III: Logical Model Design
+- ✅ Phase IV: Database Creation
+- ✅ Phase V: Table Implementation & Data Insertion
+- ✅ Phase VI: Database Interaction & Transactions
+- ✅ Phase VII: Advanced Programming & Auditing
+- ✅ Phase VIII: Documentation, BI & Presentation
 
 ## Notes
 
