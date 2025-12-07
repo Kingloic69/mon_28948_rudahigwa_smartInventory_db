@@ -4,7 +4,7 @@
 
 ### Student Details
 
-- **Student Name:** Rudahigwa
+- **Student Name:** Rudahigwa Mparabanyi Loic
 - **Student ID:** 28948
 - **Group Name:** mon
 - **First Name:** rudahigwa
@@ -56,13 +56,6 @@ Smart Inventory Theft-Detection System/
 5. Initialize Git repository and commit all files
 6. Begin PL/SQL development (Phase VI)
 
-### Important Reminders
-
-- All passwords are set to: `rudahigwa` 
-- Database name follows the exact format: `mon_28948_rudahigwa_smartInventory_db`
-- Update GitHub repository URL in README.md when available
-- Ensure all screenshots include the project name
-- Follow all naming conventions strictly
 
 ---
 
